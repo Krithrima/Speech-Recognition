@@ -1,2 +1,2 @@
 # Speech-Recognition
-Speech recognition helps to speech to text conversion
+Speech recognition helps in speech to text conversion
